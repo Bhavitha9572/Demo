@@ -20,5 +20,4 @@ public class C extends B {
 		b.hack("chinni");
 	}
 	
-
 }
